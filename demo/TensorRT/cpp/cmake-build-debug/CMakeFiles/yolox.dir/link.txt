@@ -1,0 +1,3 @@
+"D:\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\yolox.dir/objects.a
+C:\PROGRA~1\mingw64\bin\ar.exe cr CMakeFiles\yolox.dir/objects.a @CMakeFiles\yolox.dir\objects1.rsp
+C:\PROGRA~1\mingw64\bin\G__~1.EXE  -std=c++11 -Wall -Ofast -Wfatal-errors -D_MWAITXINTRIN_H_INCLUDED -g -Wl,--whole-archive CMakeFiles\yolox.dir/objects.a -Wl,--no-whole-archive -o yolox.exe -Wl,--out-implib,libyolox.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\yolox.dir\linklibs.rsp
