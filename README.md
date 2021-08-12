@@ -2,7 +2,7 @@
 you need generate data.txt like follow format. 
 ## prepare data.txt like this:<br>
 <br>img_path1 x1,y1,x2,y2,class_id x1,y1,x2,y2,class_id2 ........**(per line-> one image)** <br>
-<br>img_path2 x1,y1,x2,y2,class_id..............................**(per line-> one image)**<br>
+<br>img_path2 x1,y1,x2,y2,class_id >>>>>>>>>>>>>**(per line-> one image)**<br>
 <br>************************************************************<br>
 ### note:<br>
 **<br>x1,y1,x2,y2 is int type and it belong to 0~img-w ,0~img-h, not 0~1 !!!<br>
