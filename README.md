@@ -1,9 +1,9 @@
 # YOLOX train your data
 you need generate data.txt like follow format **(per line-> one image)**.
-## prepare data.txt like this:<br>
+## prepare one data.txt like this:<br>
 <br>img_path1 x1,y1,x2,y2,class_id x1,y1,x2,y2,class_id2  <br>
 <br>img_path2 x1,y1,x2,y2,class_id <br>
-<br>************************************************************<br>
+<br>img_path3 ..........<br>
 ### note:<br>
 **<br>x1,y1,x2,y2 is int type and it belong to 0-img_w ,0-img_h, not 0~1 !!!<br>
 <br>img_path is abs path ;must be careful the sign " " and "," in data.txt, there was an example: <br>
