@@ -14,4 +14,4 @@ you need generate data.txt like follow format **(per line-> one image)**.
 **ii.step2** , change train.py params, just as https://github.com/Megvii-BaseDetection/YOLOX.git ,when you have changed , just run : **python train.py**
 
  **iii. star** 
- ps:工作太忙，暂时没时间维护，mmdetection已经实现了YOLOX，服务更好
+
