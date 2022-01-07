@@ -1,5 +1,5 @@
 # YOLOX train your data
-you need generate data.txt like follow format **(per line-> one image)**.
+you need generate one data.txt like follow format **(per line-> one image)**.
 ## prepare one data.txt like this:<br>
 <br>img_path1 x1,y1,x2,y2,class_id x1,y1,x2,y2,class_id2  <br>
 <br>img_path2 x1,y1,x2,y2,class_id <br>
